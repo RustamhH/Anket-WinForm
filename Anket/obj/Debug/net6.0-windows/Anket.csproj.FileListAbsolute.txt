@@ -1,0 +1,17 @@
+D:\WinForm & WPF\Anket\Anket\bin\Debug\net6.0-windows\Anket.exe
+D:\WinForm & WPF\Anket\Anket\bin\Debug\net6.0-windows\Anket.deps.json
+D:\WinForm & WPF\Anket\Anket\bin\Debug\net6.0-windows\Anket.runtimeconfig.json
+D:\WinForm & WPF\Anket\Anket\bin\Debug\net6.0-windows\Anket.dll
+D:\WinForm & WPF\Anket\Anket\bin\Debug\net6.0-windows\Anket.pdb
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.csproj.AssemblyReference.cache
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.Form1.resources
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.csproj.GenerateResource.cache
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.AssemblyInfoInputs.cache
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.AssemblyInfo.cs
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.csproj.CoreCompileInputs.cache
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.dll
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\refint\Anket.dll
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.pdb
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\Anket.genruntimeconfig.cache
+D:\WinForm & WPF\Anket\Anket\obj\Debug\net6.0-windows\ref\Anket.dll
