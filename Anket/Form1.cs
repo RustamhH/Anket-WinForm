@@ -49,8 +49,15 @@ namespace Anket
                         }
                     }
                 }
-                Write($"{NameBox.Text}.json", new User(NameBox.Text, SurnameBox.Text, FatherNameBox.Text,
-                    CountryBox.Text, CityBox.Text, PhoneBox.Text, dateTimePicker1.Value, gender));
+                try
+                {
+                    Write($"{NameBox.Text}.json", new User(NameBox.Text, SurnameBox.Text, FatherNameBox.Text,
+                        CountryBox.Text, CityBox.Text, PhoneBox.Text, dateTimePicker1.Value, gender));
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
             }
         }
 
